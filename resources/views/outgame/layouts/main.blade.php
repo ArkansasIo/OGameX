@@ -2,16 +2,12 @@
 <html lang="{{ app()->getLocale() }}">
 <head>
     <!--
-     ===========================================
-       ____   _____                     __   __
-      / __ \ / ____|                    \ \ / /
-     | |  | | |  __  __ _ _ __ ___   ___ \ V /
-     | |  | | | |_ |/ _` | '_ ` _ \ / _ \ > <
-     | |__| | |__| | (_| | | | | | |  __// . \
-      \____/ \_____|\__,_|_| |_| |_|\___/_/ \_\
-     ===========================================
-
-     Powered by OGameX - Explore the universe! Conquer your enemies!
+     ========================================================
+     Universe Civilization Empire At War
+     ========================================================
+     
+     Powered by Universe Civilization Empire At War
+     Explore the universe! Conquer your enemies!
      GitHub: https://github.com/lanedirt/OGameX
      Version: {{ \OGame\Facades\GitInfoUtil::getAppVersionBranchCommit() }}
 
@@ -21,15 +17,15 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="language" content="{{ app()->getLocale() }}"/>
-    <meta name="author" content="OGameX"/>
-    <meta name="publisher" content="OGameX"/>
-    <meta name="copyright" content="OGameX"/>
+    <meta name="author" content="Universe Civilization Empire At War"/>
+    <meta name="publisher" content="Universe Civilization Empire At War"/>
+    <meta name="copyright" content="Universe Civilization Empire At War"/>
     <meta name="audience" content="all"/>
     <meta name="Expires" content="never"/>
     <meta name="Keywords"
-          content="Game, Browser, online, for free, legendary, MMOG, Science fiction, space, space ship"/>
+          content="Game, Browser, online, for free, legendary, MMOG, Science fiction, space, space ship, empire, civilization, war"/>
     <meta name="Description"
-          content="OGameX - The legendary game in the space! Discover the universe together with thousands of players."/>
+          content="Universe Civilization Empire At War - The ultimate space strategy game! Build your empire, lead your civilization, and dominate the galaxy with thousands of players."/>
     <meta name="robots" content="index,follow"/>
     <meta name="Revisit" content="After 14 days"/>
     <title>{{ config('app.name', 'Laravel') }}</title>

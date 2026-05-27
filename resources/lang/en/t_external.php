@@ -17,7 +17,7 @@ return [
 
     // Login form (header)
     'login' => [
-        'page_title'        => 'OGame - Conquer the universe',
+        'page_title'        => 'Universe Civilization Empire At War - Conquer the galaxy',
         'btn'               => 'Login',
         'email_label'       => 'Email address:',
         'password_label'    => 'Password:',
@@ -43,17 +43,17 @@ return [
     // Top navigation tabs
     'nav' => [
         'home'  => 'Home',
-        'about' => 'About OGame',
+        'about' => 'About UCEAW',
         'media' => 'Media',
         'wiki'  => 'Wiki',
     ],
 
     // Home tab content
     'home' => [
-        'title'            => 'OGame - Conquer the universe',
-        'description_html' => '<em>OGame</em> is a strategy game set in space, with thousands of players from across the world competing at the same time. You only need a regular web browser to play.',
-        'board_btn'        => 'Board',
-        'trailer_title'    => 'Trailer',
+        'title'            => 'Universe Civilization Empire At War - Conquer the galaxy',
+        'description_html' => '<em>Universe Civilization Empire At War</em> is a real-time strategy game set in space, with thousands of players competing simultaneously. Build your civilization, command your fleets, and prove your dominance across the galaxy. You only need a regular web browser to play.',
+        'board_btn'        => 'Community Forum',
+        'trailer_title'    => 'Official Trailer',
     ],
 
     // Footer
@@ -63,7 +63,7 @@ return [
         'terms'          => 'T&Cs',
         'contact'        => 'Contact',
         'rules'          => 'Rules',
-        'copyright'      => '© OGameX. All rights reserved.',
+        'copyright'      => '© Universe Civilization Empire At War. All rights reserved.',
     ],
 
     // Inline JS strings
